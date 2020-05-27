@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+  <AddIn Type="Application">
+
+    <Name>RevitRubban</Name>
+
+    <FullClassName>RevitTemplate.RevitProgramme</FullClassName>
+
+    <Text>RevitRubban</Text>
+
+    <Description>RevitRubban</Description>
+
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+
+    <Assembly>D:\DATA\a.karius\Desktop\MonApplication test\RevitRubban\RevitTemplateSolution\RevitTemplate\bin\Debug\RevitTemplate.dll</Assembly>
+
+    <AddInId>8101FCCB-EBB9-4DB2-9979-29910D0CC5B1</AddInId>
+
+    <VendorId>AKA</VendorId>
+
+    <VendorDescription>Création de PlugIN</VendorDescription>
+
+  </AddIn>
+
+</RevitAddIns>
